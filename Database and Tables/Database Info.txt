@@ -1,0 +1,1 @@
+Note : - Go to your mysql workbench and create database hosptial and create a tables via importing the 3 sql files hospital, doctors and appointments.
