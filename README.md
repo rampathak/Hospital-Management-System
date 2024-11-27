@@ -22,6 +22,8 @@ DatabaseConnection: Handles the connection to the database.
 Patient: Manages patient-related operations such as adding new patients, viewing patients, and retrieving patient details by ID.
 Doctor: Manages doctor-related operations such as viewing doctors and retrieving doctor details by ID.
 HospitalMgmt: The main class that interacts with the user, providing a menu to perform operations and managing the flow of the application.
+
+
 **Database Schema (MySQL)**
 The system uses the following tables:
 patients: Stores information about patients (ID, name, contact details, etc.).
