@@ -26,6 +26,7 @@ HospitalMgmt: The main class that interacts with the user, providing a menu to p
 
 **Database Schema (MySQL)**
 The system uses the following tables:
+
 patients: Stores information about patients (ID, name, contact details, etc.).
 
 doctors: Stores information about doctors (ID, name, specialization, etc.).
